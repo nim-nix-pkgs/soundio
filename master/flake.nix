@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-soundio-master.flake = false;
+  inputs.src-soundio-master.ref   = "refs/heads/master";
   inputs.src-soundio-master.owner = "ul";
-  inputs.src-soundio-master.ref   = "master";
   inputs.src-soundio-master.repo  = "soundio";
   inputs.src-soundio-master.type  = "github";
   
