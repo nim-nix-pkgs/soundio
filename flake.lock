@@ -23,8 +23,9 @@
     },
     "nixpkgs": {
       "locked": {
-        "narHash": "sha256-7sWpWRO0IsBP5jm9qCrpuzDkWC7UAghiCmZZ+1uqHKo=",
-        "path": "/nix/store/q2jrkx5a3z6yxzbfai0kxpnqki80jm3l-source",
+        "lastModified": 0,
+        "narHash": "sha256-BBeCZwZImtjP3oYy4WogkQYy5OxNyfNciVSc1AfZgLQ=",
+        "path": "/nix/store/z8fi1f38y14lmsyhnph1l98qr3r9x7wr-source",
         "type": "path"
       },
       "original": {
@@ -51,11 +52,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1653696803,
-        "narHash": "sha256-A8uUZzLBOW8VocVB6rSeXeiUoDzjufTusHJKXeiTH3g=",
+        "lastModified": 1653702393,
+        "narHash": "sha256-rtZUAVOcXDgSm4kjDa6f6IIt0WzGMHYWdhKKLlNaJVI=",
         "owner": "nim-nix-pkgs",
         "repo": "soundio",
-        "rev": "c424ef8ab4d137783caadd690122d96ec114f786",
+        "rev": "9e5f283026bfda5a69ce20c8672b8dc3f45aaf41",
         "type": "github"
       },
       "original": {
