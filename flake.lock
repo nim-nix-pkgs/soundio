@@ -52,11 +52,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1658018272,
-        "narHash": "sha256-wYE+1bAMqhsZwWwWq7y9vyC/DByrCVfjWZSZhvCMRtM=",
+        "lastModified": 1658032225,
+        "narHash": "sha256-7/n68BBegFDdazWLjaHlG5HBch2h7VkFWTm2NSyWw3Y=",
         "owner": "nim-nix-pkgs",
         "repo": "soundio",
-        "rev": "c5ccf67476eb8ea5a2fff3917919eca9501439de",
+        "rev": "b30fdbe7136b64a64f8217cb027a2e9735db64de",
         "type": "github"
       },
       "original": {
