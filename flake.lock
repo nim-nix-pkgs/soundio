@@ -23,11 +23,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1667110639,
-        "narHash": "sha256-4FbPESZ5LbqQxkJJJBAfk/zKgF9h/4kyUwjjpJwYlbc=",
+        "lastModified": 1667199707,
+        "narHash": "sha256-I2Js3Y7gUyVSEXPULHlBoRek4Lh85vnevdS6mdvDNLI=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "f38a1f04d1bec1feb61fd101a0539ae2002a7087",
+        "rev": "ced197be72099edcfa68ebed8b87af7b04851f45",
         "type": "github"
       },
       "original": {
@@ -54,11 +54,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1662254838,
-        "narHash": "sha256-SF6B4y9NchD0zgEKHL7xmTR+AcPSOz5bUstOhbAQ0j8=",
+        "lastModified": 1667322686,
+        "narHash": "sha256-k69TyrP0S1CRLX0oAGTvSkqAuNuIUM+AQhWlgAi4kCs=",
         "owner": "nim-nix-pkgs",
         "repo": "soundio",
-        "rev": "e1cba83f9e28b2af5f9c066a78bf40a722c1bb3a",
+        "rev": "a805578c303ea58d164345ddf16e9416ee9fd74e",
         "type": "github"
       },
       "original": {
